@@ -1,7 +1,7 @@
 {
   "name": "js-task-reate-prev-arg-saver",
   "version": "1.0.0",
-  "description": "js task for closures practise",
+  "description": "js task for closures practice",
   "main": "src/createPrevArgSaver.js",
   "scripts": {
     "test": "jest",
